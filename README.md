@@ -1,2 +1,2 @@
 # World Time
- Flutter app to view different timezones
+ A Flutter application to view different timezones
